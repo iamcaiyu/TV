@@ -1,5 +1,8 @@
 name: 'update schedule'
 
+permissions:
+  actions: write
+
 on:
   schedule:
     - cron: '0 */12 * * *'
