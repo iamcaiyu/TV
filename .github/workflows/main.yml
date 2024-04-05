@@ -1,5 +1,9 @@
 name: 'update schedule'
 
+permissions:
+  contents: write
+  packages: write
+
 on:
   schedule:
     - cron: '0 */12 * * *'
