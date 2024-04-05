@@ -1,5 +1,5 @@
-source_file = "demo.txt"
-final_file = "result.txt"
+source_file = "user_demo.txt"
+final_file = "user_result.txt"
 favorite_list = []
 favorite_page_num = 6
 default_page_num = 4
