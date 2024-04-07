@@ -1,24 +1,15 @@
-Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8, Date: 04-06-2024, Resolution: 1920x1080, Response Time: 425ms
-Name: CCTV-1, URL: http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8, Date: 04-05-2024, Resolution: 1920x1080 • Fast, Response Time: 496ms
-Name: CCTV-1, URL: http://59.55.35.199:20000/hls/1/index.m3u8, Date: 04-06-2024, Resolution: 1920x1080 • Faster, Response Time: 509ms
-Name: CCTV-1, URL: http://211.158.155.48:8002/udp/225.0.4.74:7980, Date: 04-05-2024, Resolution: 1920x1080, Response Time: 512ms
-Name: CCTV-1, URL: http://182.123.72.250:8090/hls/1/index.m3u8, Date: 04-06-2024, Resolution: 1920x1080 • Faster, Response Time: 556ms
-Name: CCTV-1, URL: http://121.24.98.71:8090/hls/9/index.m3u8, Date: 04-06-2024, Resolution: 1920x1080, Response Time: 559ms
-Name: CCTV-1, URL: http://113.116.4.70:808/hls/30/index.m3u8, Date: 04-05-2024, Resolution: 768x576 • Faster, Response Time: 469ms
-Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8, Date: 04-06-2024, Resolution:  Faster, Response Time: 428ms
-Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8, Date: 04-06-2024, Resolution:  Fastest, Response Time: 430ms
-Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8, Date: 04-06-2024, Resolution:  Fastest, Response Time: 435ms
-Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8, Date: 04-06-2024, Resolution:  Fastest, Response Time: 475ms
-Name: CCTV-1, URL: http://117.141.149.101:9901/tsfile/live/1010_1.m3u8, Date: 03-27-2024, Resolution: None, Response Time: 499ms
-Name: CCTV-1, URL: http://222.83.181.3:9901/tsfile/live/1005_1.m3u8, Date: 03-26-2024, Resolution: None, Response Time: 501ms
-Name: CCTV-1, URL: http://117.141.149.101:4431/tsfile/live/faacts/1010_1.m3u8, Date: 03-29-2024, Resolution:  Fast, Response Time: 503ms
-Name: CCTV-1, URL: http://110.7.128.200:8096/tsfile/live/0001_1.m3u8, Date: 02-25-2024, Resolution: None, Response Time: 543ms
-Name: CCTV-1, URL: http://123.187.46.90:65000/hls/1/index.m3u8, Date: 03-18-2024, Resolution:  Fastest, Response Time: 546ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=19, Date: 04-05-2024, Resolution: None, Response Time: 1192ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=13, Date: 04-05-2024, Resolution: None, Response Time: 1206ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=15, Date: 04-05-2024, Resolution: None, Response Time: 1208ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=16, Date: 04-05-2024, Resolution: None, Response Time: 1211ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=1, Date: 04-05-2024, Resolution: None, Response Time: 1219ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=18, Date: 04-05-2024, Resolution: None, Response Time: 1223ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=17, Date: 04-05-2024, Resolution: None, Response Time: 1225ms
-Name: CCTV-1, URL: http://xxw.me0.cn/api/migu.php?id=14, Date: 04-05-2024, Resolution: None, Response Time: 1228ms
+Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8, Date: 04-07-2024, Resolution: 1920x1080, Response Time: 456ms
+Name: CCTV-1, URL: http://121.24.98.71:8090/hls/9/index.m3u8, Date: 04-06-2024, Resolution: 1920x1080, Response Time: 531ms
+Name: CCTV-1, URL: http://182.123.72.250:8090/hls/1/index.m3u8, Date: 04-06-2024, Resolution: 1920x1080 • Faster, Response Time: 566ms
+Name: CCTV-1, URL: http://117.43.217.34:20000/hls/1/index.m3u8, Date: 04-07-2024, Resolution: 1920x1080 • Faster, Response Time: 760ms
+Name: CCTV-1, URL: http://211.158.155.48:8002/udp/225.0.4.74:7980, Date: 04-05-2024, Resolution: 1920x1080, Response Time: 1527ms
+Name: CCTV-1, URL: http://stream.smntv.cn/smtv1/sd/live.m3u8, Date: 04-06-2024, Resolution: 1280x720 • Faster, Response Time: 1123ms
+Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8, Date: 04-07-2024, Resolution:  Fastest, Response Time: 446ms
+Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8, Date: 04-07-2024, Resolution:  Fastest, Response Time: 454ms
+Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8, Date: 04-07-2024, Resolution:  Faster, Response Time: 458ms
+Name: CCTV-1, URL: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8, Date: 04-07-2024, Resolution:  Fastest, Response Time: 498ms
+Name: CCTV-1, URL: http://222.83.181.3:9901/tsfile/live/1005_1.m3u8, Date: 03-26-2024, Resolution: None, Response Time: 514ms
+Name: CCTV-1, URL: http://117.141.149.101:4431/tsfile/live/faacts/1010_1.m3u8, Date: 03-29-2024, Resolution:  Fast, Response Time: 515ms
+Name: CCTV-1, URL: http://117.141.149.101:9901/tsfile/live/1010_1.m3u8, Date: 03-27-2024, Resolution: None, Response Time: 516ms
+Name: CCTV-1, URL: http://123.187.46.90:65000/hls/1/index.m3u8, Date: 03-18-2024, Resolution:  Fastest, Response Time: 586ms
+Name: CCTV-1, URL: http://110.7.128.200:8096/tsfile/live/0001_1.m3u8, Date: 02-25-2024, Resolution: None, Response Time: 591ms
